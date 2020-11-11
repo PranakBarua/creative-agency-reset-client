@@ -1,0 +1,8 @@
+.service-section:hover{
+    box-shadow: 10px 10px 40px lightgray;
+    padding: 20px;
+    border-radius: 10px;
+}
+.text-color-info{
+    color: black;
+}

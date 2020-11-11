@@ -1,0 +1,23 @@
+.review-section{
+    padding:20px;
+    box-shadow: 10px 10px 20px lightgray;
+    margin-bottom: 50px;
+    border-radius: 5px;
+}
+.name-description{
+    display: flex;
+}
+.image-cropper{
+    width: 80px;
+    height: 80px;
+    position: relative;
+    overflow: hidden;
+    border-radius: 50%;
+}
+.pic{
+    display: inline;
+    margin: 0 auto;
+    margin-left: 0%; 
+    height: 100%;
+    width: auto;
+}
